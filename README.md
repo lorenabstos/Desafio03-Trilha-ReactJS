@@ -15,7 +15,7 @@ Funcionalidades pedidas e implementadas nesse desafio:
   <li>Exibição de mensagens de erro;</li>
   <li>Entre outros.</li>
 </ul>
-Para esse desafio, além dos conceitos vistos em aula foram utilizadas algumas coisas novas para deixar a aplicação ainda melhor:
+Além dos conceitos vistos em aula foram utilizadas algumas coisas novas para deixar a aplicação ainda melhor:
 <ul>
   <li>Fake API com JSON Server;</li>
   <li>Preservação de dados do carrinho com localStorage API;</li>
