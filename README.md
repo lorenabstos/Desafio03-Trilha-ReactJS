@@ -22,12 +22,8 @@ Para esse desafio, além dos conceitos vistos em aula foram utilizadas algumas c
 
 Por fim, foram executados os testes automatizados disponíveis no projeto.
 
-<p>
 <b>Testes Automatizados</b><br>
 <img src="https://github.com/narelo/assets-readme/blob/main/testes-automatizados-D03.gif?raw=true" alt="watchme">
-</p>
-
-<p>
-<b>Aplicação Final</b>
+<br>
+<b>Aplicação Final</b><br>
 <img src="https://github.com/narelo/assets-readmes/blob/main/desafio03-TRJS.gif?raw=true" alt="watchme">
-</p>
