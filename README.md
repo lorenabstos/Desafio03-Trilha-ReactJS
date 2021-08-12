@@ -24,6 +24,6 @@ Por fim, foram executados os testes automatizados disponíveis no projeto.
 
 <b>Testes Automatizados</b><br>
 <img src="https://github.com/narelo/assets-readme/blob/main/testes-automatizados-D03.gif?raw=true" alt="watchme">
-<br><br><br>
+<br><br>
 <b>Aplicação Final</b><br>
 <img src="https://github.com/narelo/assets-readmes/blob/main/desafio03-TRJS.gif?raw=true" alt="watchme">
