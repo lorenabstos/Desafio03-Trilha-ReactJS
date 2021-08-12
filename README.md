@@ -3,7 +3,9 @@
 </h1>
 <h3 align="center">⚛️ Trilha ReactJS • Capítulo II</h3>
 <h3 align="center">Desafio 03 • Criando um hook de Carrinho de Compras 🛒</h3>
-<p align="center"><b>Desafio:</b> Criar uma aplicação para treinar os conhecimentos de ReactJS obtidos no capítulo II da jornada. O principal objetivo da aplicação foi criar um hook de carrinho de compras. Funcionalidades pedidas e implementadas nesse desafio:
+<p align="center"><b>Desafio:</b> Criar uma aplicação para treinar os conhecimentos de ReactJS obtidos no capítulo II da jornada. O principal objetivo da aplicação foi criar um hook de carrinho de compras.</p> 
+  
+Funcionalidades pedidas e implementadas nesse desafio:
 <ul>
   <li>Adicionar um novo produto ao carrinho;</li>
   <li>Remover um produto do carrinho;</li>
